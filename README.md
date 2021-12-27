@@ -53,26 +53,3 @@ The data is somewhat dated, the most recent information is from 5 years ago.
 1) Outcomes based on Years to determine which years were the most successful for plays, and if there are any patterns
 2) Outcomes based on Country to determine which country is more likely to sponsor plays
 3) Outcomes based on Staff Pick to determine if having the "Staff Pick" attribute actually contributes to the success of a campaign, and does it increase the number of backers 
-
-
-## Overview of Project
-
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
